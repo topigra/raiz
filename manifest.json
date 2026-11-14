@@ -1,0 +1,17 @@
+{
+  "name": "Raíz — vive el presente",
+  "short_name": "Raíz",
+  "description": "Una agenda para vivir el presente: sin miedo al mañana ni peso del ayer.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#161a33",
+  "theme_color": "#161a33",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
