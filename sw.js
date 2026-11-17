@@ -1,6 +1,6 @@
 // Guarda la app en el móvil para que funcione sin conexión.
 // Al cambiar algo de la app, sube el número de versión.
-const VERSION = "raiz-v2";
+const VERSION = "raiz-v3";
 const ARCHIVOS = [
   "./",
   "index.html",
